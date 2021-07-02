@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>Report</name>
+    <members>unfiled$public/QA</members>
+  </types>
+  <types>
+    <name>Skill</name>
+    <members>QA</members>
+  </types>
+  <types>
+    <name>StaticResource</name>
+    <members>NCP_ThemeOverrides</members>
+    <members>NokiaPureFonts</members>
+    <members>banners</members>
+    <members>emptyStates</members>
+    <members>favicon</members>
+    <members>logo</members>
+    <members>debug</members>
+    <members>scripts</members>
+  </types>
+  <types>
+    <name>Territory2</name>
+    <members>Nokia_Sales_Hierarchy.CMD1001</members>
+  </types>
+  <types>
+    <name>Territory2Model</name>
+    <members>Nokia_Sales_Hierarchy</members>
+  </types>
+<version>52.0</version></Package>
